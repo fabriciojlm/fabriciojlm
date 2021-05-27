@@ -1,5 +1,5 @@
 
-<h1 align="center">Ola 👋, I'm Fabricio Juliano</h1>  
+<h1 align="center">Hi 👋, I'm Fabricio Juliano</h1>  
 <h3 align="center">Enthusiast in Web Development, and lover of technology.</h3>  
   
 - 🌱 I’m currently learning **JavaScript, Express, NodeJS, React, MongoDB**  
