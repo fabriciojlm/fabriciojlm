@@ -1,29 +1,68 @@
-### 📲 Contact me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5588996308023&text=Olá!)](https://api.whatsapp.com/send?phone=5588996308023&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabriciojuliano@alu.ufc.br)](mailto:fabriciojuliano@alu.ufc.br)
 
-### ℹ️ Sobre mim / About me
-Olá meu nome é Fabricio Juliano, Entusiasa em Desenvolvimento Web, e amante da tecnologia. 
-</br>
-Hello my name is Fabricio Juliano, Enthusiast in Web Development, and lover of technology.
+<h1 align="center">Ola 👋, I'm Fabricio Juliano</h1>  
+<h3 align="center">Enthusiast in Web Development, and lover of technology.</h3>  
+  
+- 🌱 I’m currently learning **JavaScript, Express, NodeJS, React, MongoDB**  
+  
+- 📫 How to reach me **fabricio1099@gmail.com**  
+  
+- ⚡ Fun fact **I think I am funny**  
+  
+<h3 align="center">📲 Connect with me:</h3>  
+<p>
+<a href = "https://www.linkedin.com/in/fabriciojuliano" target ="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href = "https://www.instagram.com/fabriciojlm" target ="_blank">
+<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"> </a>
+<a href = "https://www.facebook.com/fabriciojlm/" target ="_blank">
+<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"> </a>
+ </p>
 
-### 🛠 Conhecimentos / Knowledges
+  
+<h3 align="center">🛠 Languages and Tools:</h3>  
+<h4> Programming Languages</h4>
+<p> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img>  
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</p>
+
+<h4> Frontend Development </h4>
+<p><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+</a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
+<a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
+<p>
 
 
-[![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
-[![C](https://img.shields.io/badge/-C-red?style=flat-square&logo=C&logoColor=white&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
+<h4>Backend Development<h4>
+<p> 
+<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
+</p>
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
 
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
----
+
+<h4>Database<h>
+<p>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+
+<h4>Other<h4>
+<p>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+<h3 align="center"> 👨‍💻 Stats :</h3>  
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriciojlm&show_icons=true&theme=dark&locale=en&layout=compact" alt="fabriciojlm" /></p>  
+<br>
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabriciojlm&show_icons=true&theme=dark&locale=en" alt="fabriciojlm" /></p>  
+  <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabriciojlm&theme=dark" alt="fabriciojlm" /></p>
