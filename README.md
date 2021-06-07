@@ -55,7 +55,6 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabriciojlm&show_icons=true&theme=dark&locale=en" alt="fabriciojlm" />
   <br>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabriciojlm&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabriciojlm&theme=blood-dark&hide_border=true)](https://git.io/streak-stats)
 
 
