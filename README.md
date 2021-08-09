@@ -57,4 +57,5 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabriciojlm&theme=dracula)](https://git.io/streak-stats)
 
+![Snake animation](https://github.com/fabriciojlm/fabriciojlm/blob/output/github-contribution-grid-snake.svg)
 
