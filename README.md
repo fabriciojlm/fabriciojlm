@@ -50,9 +50,9 @@
 
 <h3 align="center"> 👨‍💻 Stats :</h3>  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriciojlm&show_icons=true&theme=dracula=en&layout=compact" alt="fabriciojlm" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriciojlm&show_icons=true&theme=dark&locale=en&layout=compact" alt="fabriciojlm" />
   
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabriciojlm&show_icons=true&theme=dracula=en" alt="fabriciojlm" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabriciojlm&show_icons=true&theme=dark&locale=en" alt="fabriciojlm" />
   <br>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabriciojlm&theme=dracula)](https://git.io/streak-stats)
