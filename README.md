@@ -69,6 +69,8 @@
 <h3 align="center"> 👨‍💻 Stats </h3>  
 
 
- [<div style="display: inline_block;" align="center">![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabriciojlm&theme=github-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-<br> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabriciojlm&show_icons=true&theme=github_dark&border_color=&locale=en" alt="fabriciojlm" />
- </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriciojlm&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="fabriciojlm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabriciojlm&show_icons=true&theme=dark&text_color=16df81&locale=en" alt="fabriciojlm" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabriciojlm&theme=dark" alt="fabriciojlm" /></p>
