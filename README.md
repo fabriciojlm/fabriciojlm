@@ -69,7 +69,7 @@
 <h3 align="center"> 👨‍💻 Stats </h3>  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriciojlm&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="fabriciojlm" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriciojlm&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="fabriciojlm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabriciojlm&show_icons=true&theme=dark&text_color=16df81&locale=en" alt="fabriciojlm" /></p>
 
