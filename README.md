@@ -9,7 +9,9 @@
   
 - 📫 How to reach me **fabricio1099@gmail.com**  
   
-- ⚡ Fun fact **I think I am funny**    
+- ⚡ Fun fact **I think I am funny**
+
+- [![An image of @fabriciojlm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fabriciojlm)](https://holopin.io/@fabriciojlm)
 
 
  ##
