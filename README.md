@@ -9,7 +9,6 @@
   
 - 📫 How to reach me **fabricio1099@gmail.com**  
   
-- ⚡ Fun fact **I think I am funny**
 
 - [![An image of @fabriciojlm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fabriciojlm)](https://holopin.io/@fabriciojlm)
 
@@ -21,8 +20,6 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href = "https://www.instagram.com/fabriciojlm" target ="_blank">
 <img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"> </a>
-<a href = "https://www.facebook.com/fabriciojlm/" target ="_blank">
-<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"> </a>
  </p>
 
 
